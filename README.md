@@ -1,20 +1,15 @@
 # Lawnchair
 
-**Summary**: This repo contains: Lawnchair assets ([lawnchair](https://lawnchair.app)):
+**Summary**: Forked to remove Feed and Icons as I don't need them.
 
-- Launcher
+This repo contains:
+- [Lawnchair](https://lawnchair.app) Launcher
+- Recents Provider
 
-- Lawn icons
-
-- Feeds integration
-
-- Recents provider
-
-it's simply a magisk module to system-ize them. 
-
+It's simply a magisk module to system-ize them. 
 
 ## Credits
-- **Lawnchair team** for their awesome work.
+- **Lawnchair Team** for their awesome work.
 
 ## Download
-get latest build directly from <a href="https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/releases/latest">here</a>
+Get latest build directly from <a href="https://github.com/fahimscirex/lawnchair/releases/latest">here</a>
